@@ -1,0 +1,6 @@
+--/--/--  11155  USB  (10) inserted..
+--/--/--  12233  Motherboard  (10) inserted..
+22/03/20  10005  Mouse  (1) have been sold..
+22/03/20  10007  Camera  (2) have been sold..
+26.03.20  10009  product  (Router)  has been updated..
+26.03.20 All products are discounted..

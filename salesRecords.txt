@@ -1,0 +1,13 @@
+PID         PNAME           PRICE           LAST_SOLD           QUANTITY        DISCOUNT        PURCHASED_AMOUNT  GAIN (TL)
+10001       Scanner         800.00           11.10.19            120              Yes                  0             0.00
+10002       Printer         700.00           25.02.20            130              Yes                  0             0.00
+10003            PC        3000.00           23.01.20             40              Yes                  0             0.00
+10004        Laptop        3500.00           11.10.19             65              Yes                  0             0.00
+10005         Mouse          50.00           22/03/20            119              Yes                  1            50.00
+10006         Phone        5000.00           30.01.20            200              Yes                  0             0.00
+10007        Camera        4500.00           22/03/20            123              Yes                  2          9000.00
+10008         Paper          35.00           11.10.19           1000              Yes                  0             0.00
+10009        Router         250.00           --/--/--            355              Yes                  0             0.00
+10010     Hard Disk         600.00           21.05.20            500              Yes                  0             0.00
+11155           USB          40.00           --/--/--             10              Yes                  0             0.00
+12233   Motherboard          50.00           --/--/--             10              Yes                  0             0.00
